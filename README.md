@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yazan Alsaid</title>
+  <titel>my GitHub profile</titel>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -34,10 +34,10 @@
 </head>
 <body>
   <div class="container">
-    <h1>Your Name</h1>
+    <h1>Yazan Alsaid</h1>
     <p>🚀 Welcome to my GitHub profile! I'm passionate about coding and building awesome things.</p>
     <p>🌱 Currently learning and exploring new technologies.</p>
-
+<!--
     <h2>Skills</h2>
     <p>💻 JavaScript | HTML | CSS Git</p>
 
