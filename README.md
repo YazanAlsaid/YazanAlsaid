@@ -4,11 +4,7 @@ A Backend Developer and a Student of Computer Science at Frankfurt UAS
 
 🌱 I’m currently learning about ML
 
-💬 Ask me about JAVA
-
 ⚡ Enthusiastic coder, solving challenges with a passion for clean code! 💻
-
-Languages and Tools:
 
 ## Languages and Tools
 
