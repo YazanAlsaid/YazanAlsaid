@@ -8,7 +8,7 @@ A Backend Developer and a Student of Computer Science at Frankfurt UAS
 
 ## Languages and Tools
   
-<img src="https://github.com/YazanAlsaid/YazanAlsaid/assets/119587195/72eecc56-a3a5-42b6-a497-871a3945cf39" background: #ffffff width="50" height="50" alt="JavaScript" style="display: inline-block; margin-right:  10px;">
+<img src="https://github.com/YazanAlsaid/YazanAlsaid/assets/119587195/72eecc56-a3a5-42b6-a497-871a3945cf39" width="50" height="50" alt="JavaScript" style="display: inline-block; margin-right:  10px;">
 <img src="https://github.com/YazanAlsaid/YazanAlsaid/assets/119587195/a1674a76-4176-461e-b85f-a1ba0494bcb3" width="50" height="50" alt="CSS3" style="display: inline-block; margin-right:  10px;">   
 <img src="https://github.com/YazanAlsaid/YazanAlsaid/assets/119587195/a8c8dbac-1a1a-402d-bf80-9ea8a03a2845" width="50" height="50" alt="HTML5" style="display: inline-block; margin-right:  10px;">   
 <img src="https://github.com/YazanAlsaid/YazanAlsaid/assets/119587195/55a3677f-67dd-4ce4-bd8c-e932d5d4057a" width="50" height="50" alt="MySQL" style="display: inline-block; margin-right:  10px;">   
