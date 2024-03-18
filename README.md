@@ -42,4 +42,9 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
+#### Visit my Portfolio
+
+   <a href="https://github.com/YazanAlsaid/Portfolio/tree/master" class="portfolio-link">my Portfolio</a>
 </div>
+
+ 
